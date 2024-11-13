@@ -49,9 +49,9 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 ### 📈 Stats & Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kekko16004&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko16004o&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
