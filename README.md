@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 Hi! I'm Francesco, a passionate developer who brings code to life in multiple forms, from game environments to practical solutions. With experience in everything from low-level programming to high-level design, I’m dedicated to creating interactive, scalable, and efficient digital experiences. Whether it’s a Unity game project or a full-stack web app, I’m constantly experimenting with new tech to push the limits of what’s possible.
 
 <p align="left">
-   <a href="https://github.com/Francesco">
+   <a href="https://github.com/Kekko16004">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Francesco?color=green&logo=github&style=for-the-badge"/>
    </a>
-   <a href="https://linkedin.com/in/francesco">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://x.com/Franchito1897">
+      <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
    </a>
 </p>
 
