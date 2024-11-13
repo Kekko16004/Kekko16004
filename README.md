@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Kekko16004/Kekko16004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👾 Francesco - Full-Stack Developer
+## 👾 Francesco - Full-Stack Developer
 
 **`Game Developer | Full-Stack Engineer | Creator`**
 
