@@ -43,16 +43,6 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 - **Operating Systems:** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - **Utilities:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-#### Languages & Frameworks
-- **Languages:** Python, Lua, C#, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Angular, Node.js, Unity
-
-#### Tools & Environments
-- **Game Development:** Unity, Godot, Blender
-- **Operating Systems:** Arch Linux, Windows
-- **Utilities:** Git, GitHub, Arch Linux, VS Code
-
 <br/>
 
 ---
