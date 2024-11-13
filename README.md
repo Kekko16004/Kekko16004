@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👾 Francesco - Developer & Digital Craftsman
+# 👾 Francesco - Full-Stack Developer
 
 **`Game Developer | Full-Stack Engineer | Creator`**
 
@@ -51,7 +51,7 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kekko16004&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko16004o&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko16004&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
