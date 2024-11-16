@@ -24,7 +24,7 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 <p align="left">
    <a href="https://github.com/Kekko16004">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Francesco?color=green&logo=github&style=for-the-badge"/>
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kekko16004?color=green&logo=github&style=for-the-badge"/>
    </a>
    <a href="https://x.com/Franchito1897">
       <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -56,6 +56,7 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 
 ---
+<!--
 
 
 ### 🌐 Latest Projects
@@ -75,6 +76,7 @@ Follow me for more content on Unity, development projects, and tutorials!
 [![Latest Video](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede)](https://www.youtube.com/watch?v=e85uJvX5geA)
 
 ---
+-->
 
 
 🚀 Ready to build, learn, and evolve? Let’s connect and share ideas!
