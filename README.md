@@ -56,7 +56,7 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 
 ---
-<!--
+
 
 ### 🌐 Latest Projects
 
@@ -75,7 +75,7 @@ Follow me for more content on Unity, development projects, and tutorials!
 [![Latest Video](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede)](https://www.youtube.com/watch?v=e85uJvX5geA)
 
 ---
--->
+
 
 🚀 Ready to build, learn, and evolve? Let’s connect and share ideas!
 
