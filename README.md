@@ -16,50 +16,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👾 Francesco - Full-Stack Developer
-
-**`Game Developer | Full-Stack Engineer | Creator`**
-
-Hi there! I’m Francesco—an ambitious full-stack engineer and game developer with a passion for building immersive experiences and robust systems. From low-level programming to polished UI, I craft scalable, interactive applications and games using the latest tech. Whether in Unity, Unreal, or modern web stacks, I love turning ideas into code-powered realities.
-
-<p align="left">
+<p align="center">
+  <!-- Discord Button -->
+  <a href="http://dsc.gg/kfdev" target="_blank" rel="noopener noreferrer">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord-icon.svg" alt="Join our Discord" height="40"/>
+  </a>
+  <!-- GitHub Follow Button -->
   <a href="https://github.com/Kekko16004">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kekko16004?color=green&logo=github&style=for-the-badge"/>
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg" alt="Follow me on GitHub" height="40"/>
   </a>
-  <a href="https://x.com/Franchito1897">
-    <img alt="X" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+</p>
+
+# 👾 Francesco — Full‑Stack Game Dev & Software Engineer  
+**Game Developer | Full‑Stack Engineer | Creator**
+
+Hello! I’m Francesco — a full‑stack engineer and game developer crafting immersive experiences, dynamic systems, and efficient tools. From Unity/Unreal games to full‑stack web apps, I bring ideas to life using cutting‑edge tech. 🚀
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Skill icons generated via skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=python,lua,csharp,cpp,html,css,js,react,angular,nodejs,unity,unreal,blender,archlinux,windows,git,github,vscode" alt="Skill icons"/>
 </p>
 
 ---
 
-### 💻 Tech Stack
+## 📊 GitHub Stats
 
-#### 🛠️ Languages & Frameworks
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-#### 🖥️ Tools & Environments
-- **Game Development:** ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-- **Operating Systems:** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-- **Utilities:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kekko16004&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko16004&layout=compact&theme=radical" alt="Top languages"/>
+</p>
 
 ---
 
-### 📈 Stats & Projects
+## 🌐 Featured Projects — from **KFScripts**
+Highlighting top open-source solutions and utilities made by our team:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kekko16004&show_icons=true&theme=radical)
+- **[KFScript‑Toolkit](https://github.com/KFScripts/KFScript-Toolkit)** – Modular utilities for streamlining FiveM development.
+- **[Player‑Manager](https://github.com/KFScripts/Player-Manager)** – Full-featured in-server player management with custom modules.
+- **[AdminMenu‑FX](https://github.com/KFScripts/AdminMenu-FX)** – Sleek admin UI with dynamic commands & clean design.
+- **[RolePlay‑Framework](https://github.com/KFScripts/RolePlay-Framework)** – RP toolkit with billing, license system, jobs, HUD, and more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko16004&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-
-### 💬 Unisciti alla nostra community su Discord!
-[![Join us on Discord](https://img.shields.io/badge/Discord-Join%20Us-blue?style=for-the-badge&logo=discord)](http://dsc.gg/kfdev)
+*(Consider automating this section with GitHub Actions to fetch the latest starred repos.)*
 
 ---
 <!--
