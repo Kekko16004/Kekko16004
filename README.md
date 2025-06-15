@@ -56,6 +56,12 @@ Hi! I'm Francesco, a passionate developer who brings code to life in multiple fo
 
 
 ---
+
+
+### 💬 Unisciti alla nostra community su Discord!
+[![Join us on Discord](https://img.shields.io/badge/Discord-Join%20Us-blue?style=for-the-badge&logo=discord)](http://dsc.gg/kfdev)
+
+---
 <!--
 
 
