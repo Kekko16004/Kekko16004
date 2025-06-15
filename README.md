@@ -83,7 +83,3 @@ Follow me for more content on Unity, development projects, and tutorials!
 ---
 -->
 
-
-🚀 Ready to build, learn, and evolve? Let’s connect and share ideas!
-
----
