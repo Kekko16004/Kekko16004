@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 **`Game Developer | Full-Stack Engineer | Creator`**
 
-Hi! I'm Francesco, a passionate developer who brings code to life in multiple forms, from game environments to practical solutions. With experience in everything from low-level programming to high-level design, I’m dedicated to creating interactive, scalable, and efficient digital experiences. Whether it’s a Unity game project or a full-stack web app, I’m constantly experimenting with new tech to push the limits of what’s possible.
+Hi there! I’m Francesco—an ambitious full-stack engineer and game developer with a passion for building immersive experiences and robust systems. From low-level programming to polished UI, I craft scalable, interactive applications and games using the latest tech. Whether in Unity, Unreal, or modern web stacks, I love turning ideas into code-powered realities.
 
 <p align="left">
-   <a href="https://github.com/Kekko16004">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kekko16004?color=green&logo=github&style=for-the-badge"/>
-   </a>
-   <a href="https://x.com/Franchito1897">
-      <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-   </a>
+  <a href="https://github.com/Kekko16004">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kekko16004?color=green&logo=github&style=for-the-badge"/>
+  </a>
+  <a href="https://x.com/Franchito1897">
+    <img alt="X" src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
